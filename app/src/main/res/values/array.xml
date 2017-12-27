@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="Output">
+        <item>Stereo with distortion</item>
+        <item>Stereo without distortion</item>
+        <item>Mono</item>
+    </string-array>
+
+    <string-array name="OutputData">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+</resources>
